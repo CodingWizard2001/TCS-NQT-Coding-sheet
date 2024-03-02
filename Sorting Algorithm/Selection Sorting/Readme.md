@@ -38,3 +38,6 @@ The overall time complexity is O(n^2) in best,average & worst case.
 
 ### Space Complexity:
 The overall space complexity is O(1).
+
+>[!Important]
+> Selection Sort is unstable Sort
